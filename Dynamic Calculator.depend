@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1703270629 source:/home/abc/Documents/C++/Dynamic Calculator/main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cmath>
+	<ctype.h>
+
